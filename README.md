@@ -98,7 +98,7 @@ An interactive API that helps users manage their wardrobe virtually, by creating
 ## 💬 Let's Connect!
 
 - **Email:** bitarmateo21@gmail.com
-- **LinkedIn:** http://linkedin.com/in/mateo-bitar-545046285
+- **LinkedIn:** (https://www.linkedin.com/in/matéo-bitar-a0041b299)
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=MateoBitar&color=orange&label=Profile%20Views&style=flat)
