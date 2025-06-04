@@ -87,7 +87,9 @@ An interactive API that helps users manage their wardrobe virtually, by creating
 
 ### Tools & Platforms:
 - ![Xcode](https://img.shields.io/badge/Xcode-%2361D6B7.svg?style=flat&logo=xcode&logoColor=black)
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 - ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 - ![Figma](https://img.shields.io/badge/Figma-F3001E?style=flat&logo=figma&logoColor=white)
@@ -98,7 +100,11 @@ An interactive API that helps users manage their wardrobe virtually, by creating
 
 ### Concepts:
 - ![Data Structures](https://img.shields.io/badge/Data%20Structures-%230e76a8.svg?style=flat)
-- ![OOP](https://img.shields.io/badge/OOP-%23276bba.svg?style=flat)
+- ![Object Oriented Programming](https://img.shields.io/badge/OOP-%23276bba.svg?style=flat)
+- ![Web Development](https://img.shields.io/badge/Web%20Development-%23333.svg?style=flat&logo=google-chrome&logoColor=white)
+- ![Mobile Development](https://img.shields.io/badge/Mobile%20Development-%23007AFF.svg?style=flat&logo=apple&logoColor=white)
+- ![Desktop App Development](https://img.shields.io/badge/Desktop%20App%20Development-%23007396.svg?style=flat&logo=java&logoColor=white)
+- ![UI/UX](https://img.shields.io/badge/UI%2FUX-9146FF?style=flat&logo=figma&logoColor=white)
 
 ### Version Control:
 - ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
