@@ -87,12 +87,13 @@ An interactive API that helps users manage their wardrobe virtually, by creating
 
 ### Tools & Platforms:
 - ![Xcode](https://img.shields.io/badge/Xcode-%2361D6B7.svg?style=flat&logo=xcode&logoColor=black)
-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-FF0000?style=flat&logo=intellij-idea&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio-ED8B00?style=flat&logo=android-studio&logoColor=white)
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-f34b7d?style=flat&logo=intellij-idea&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 - ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 - ![Figma](https://img.shields.io/badge/Figma-9146FF?style=flat&logo=figma&logoColor=white)
+- ![RStudio](https://img.shields.io/badge/R%20Studio-F7DF1E?style=flat&logo=rstudio&logoColor=white)
 
 ### Databases:
 - ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
