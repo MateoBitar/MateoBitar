@@ -51,16 +51,16 @@ A multiview iOS app helping users plan vacations with a dynamic trip cost calcul
 
 ---
 
-### **4. Outfitly API**
+### **4. Outfitly**
 
-An interactive API that helps users manage their wardrobe virtually, by creating outfits and events.
+An interactive website that helps users manage their wardrobe virtually, by creating outfits and events.
 
 - **Highlights:**
   - User authentication and management.
   - Event creation, Outfit creation and garments picking.
   - Dynamic outfit creation and events tracking.
 
-- **Tech Used:** Node.js, Express, MySQL, EJS.
+- **Tech Used:** Node.js, Express, MySQL, EJS, HTML, CSS.
 
 [View Repository](https://github.com/MateoBitar/Outfitly)
 
