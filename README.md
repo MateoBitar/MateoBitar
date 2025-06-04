@@ -70,22 +70,33 @@ An interactive API that helps users manage their wardrobe virtually, by creating
 
 ### Languages:
 - ![C++](https://img.shields.io/badge/C++-%23f34b7d.svg?style=flat&logo=c%2B%2B&logoColor=white)
-- ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-%234479A1.svg?)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+- ![JavaFX](https://img.shields.io/badge/JavaFX-007396.svg?style=flat&logo=java&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 - ![Swift](https://img.shields.io/badge/Swift-%23f05138.svg?style=flat&logo=swift&logoColor=white)
+- ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-### Frameworks & Tools:
-- ![Xcode](https://img.shields.io/badge/Xcode-%2361D6B7.svg?style=flat&logo=xcode&logoColor=black)
-- ![UIKit](https://img.shields.io/badge/UIKit-%23FF0000.svg?style=flat&logo=apple&logoColor=white)
+### Frameworks:
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 - ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat&logo=express&logoColor=white)
+- ![UIKit](https://img.shields.io/badge/UIKit-%23FF0000.svg?style=flat&logo=apple&logoColor=white)
+
+### Tools & Platforms:
+- ![Xcode](https://img.shields.io/badge/Xcode-%2361D6B7.svg?style=flat&logo=xcode&logoColor=black)
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+- ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F3001E?style=flat&logo=figma&logoColor=white)
+
+### Databases:
 - ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F3001E?style=flat&logo=figma&logoColor=white)
-- ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
+
+### Concepts:
 - ![Data Structures](https://img.shields.io/badge/Data%20Structures-%230e76a8.svg?style=flat)
 - ![OOP](https://img.shields.io/badge/OOP-%23276bba.svg?style=flat)
 
