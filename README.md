@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!  
 
-Hi there! I'm Matéo Bitar, a passionate computer science graduate from the University of Balamand. I enjoy designing innovative solutions, and crafting user-friendly experiences. Whether it's frontend development, backend architecture, mobile apps, or desktop applications, I'm always excited to tackle new challenges and deliver high-quality code.
+Hi there! I'm Matéo Bitar, a passionate computer science graduate from the University of Balamand. I enjoy designing innovative solutions and crafting user-friendly experiences. Whether it's frontend development, backend architecture, mobile apps, or desktop applications, I'm always excited to tackle new challenges and deliver high-quality code.
 
 ---
 
