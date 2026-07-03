@@ -265,14 +265,24 @@ An intelligent wildfire detection and emergency response platform designed to co
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 - ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-### Frameworks:
+### Frameworks & Libraries:
 - ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 - ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+- ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 - ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat&logo=express&logoColor=white)
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 - ![UIKit](https://img.shields.io/badge/UIKit-%23FF0000.svg?style=flat&logo=apple&logoColor=white)
+- ![Pygame](https://img.shields.io/badge/Pygame-00A86B?style=flat&logo=python&logoColor=white)
+- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+
+### API & Communication:
+- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+- ![Apollo Server](https://img.shields.io/badge/Apollo%20Server-311C87?style=flat&logo=apollo-graphql&logoColor=white)
+- ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=grpc&logoColor=white)
+- ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
 
 ### Tools & Platforms:
 - ![Xcode](https://img.shields.io/badge/Xcode-%2361D6B7.svg?style=flat&logo=xcode&logoColor=black)
@@ -281,17 +291,29 @@ An intelligent wildfire detection and emergency response platform designed to co
 - ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 - ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 - ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=black)
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 - ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 - ![Figma](https://img.shields.io/badge/Figma-9146FF?style=flat&logo=figma&logoColor=white)
 - ![RStudio](https://img.shields.io/badge/R%20Studio-F7DF1E?style=flat&logo=rstudio&logoColor=white)
 - ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 
-### Databases:
+### Databases & ORMs:
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+- ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
+- ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat&logo=typescript&logoColor=white)
 - ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 - ![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
+
+### Graphics & Media:
+- ![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-E34C26?style=flat&logo=html5&logoColor=white)
+- ![HTML5 Audio](https://img.shields.io/badge/HTML5%20Audio-E34C26?style=flat&logo=html5&logoColor=white)
+
+### Event Messaging & Cloud:
+- ![NATS](https://img.shields.io/badge/NATS-27271E?style=flat&logo=nats&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase%20Admin%20SDK-FFCA28?style=flat&logo=firebase&logoColor=black)
+- ![EJS](https://img.shields.io/badge/EJS-90C53F?style=flat&logo=javascript&logoColor=white)
 
 ### Concepts:
 - ![Data Structures](https://img.shields.io/badge/Data%20Structures-%23FF6C37.svg?style=flat)
@@ -302,8 +324,6 @@ An intelligent wildfire detection and emergency response platform designed to co
 - ![Game Development](https://img.shields.io/badge/Game%20Development-FF0000.svg?style=flat)
 - ![UI/UX](https://img.shields.io/badge/UI%2FUX-9146FF?style=flat&logo=figma&logoColor=white)
 - ![RESTful API](https://img.shields.io/badge/RESTful%20API-4CAF50.svg?style=flat)
-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-- ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=grpc&logoColor=white)
 - ![Real-time Communication](https://img.shields.io/badge/Real--time%20Communication-FF6B6B.svg?style=flat)
 - ![State Management](https://img.shields.io/badge/State%20Management-764ABC.svg?style=flat)
 - ![Authentication & Security](https://img.shields.io/badge/Authentication%20%26%20Security-FF6B6B.svg?style=flat)
