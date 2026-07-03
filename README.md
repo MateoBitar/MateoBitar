@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!  
 
-Hi there! I'm Matéo Bitar, a passionate computer science graduate from the University of Balamand. I enjoy designing innovative solutions, and crafting user-friendly experiences. Whether it's front-end, back-end, mobile, or game development, I love bringing ideas to life through code!
+Hi there! I'm Matéo Bitar, a passionate computer science graduate from the University of Balamand. I enjoy designing innovative solutions, and crafting user-friendly experiences. Whether it's fron[...]
 
 ---
 
@@ -100,7 +100,7 @@ A pure Java and JavaFX desktop application for electronic voting. This project f
 
 ### **7. ZVote-SpringBoot**
 
-The backend Spring Boot implementation for ZVote. This repository provides a RESTful API for voting operations, including poll creation, voting, and results retrieval. Designed for scalability and performance.
+The backend Spring Boot implementation for ZVote. This repository provides a RESTful API for voting operations, including poll creation, voting, and results retrieval. Designed for scalability an[...]
 
 - **Highlights:**
   - RESTful API for polls, votes, and results
@@ -116,7 +116,7 @@ The backend Spring Boot implementation for ZVote. This repository provides a RES
 
 ### **8. ZVote-FrontEnd**
 
-A JavaFX-based graphical user interface for ZVote, integrated with the ZVote-SpringBoot backend. This application enables users to interact with polls, cast votes, and view results through a modern interface.
+A JavaFX-based graphical user interface for ZVote, integrated with the ZVote-SpringBoot backend. This application enables users to interact with polls, cast votes, and view results through a mode[...]
 
 - **Highlights:**
   - User authentication
@@ -163,7 +163,7 @@ A browser-based Angry Birds game built with JavaScript and HTML5 Canvas, featuri
 
 ### **11. Pacman Game**
 
-A browser-based 2D arcade game inspired by the classic Pac-Man experience, built using JavaScript and HTML5 Canvas. Features maze navigation, pellet collection, ghost avoidance, and sound effects.
+A browser-based 2D arcade game inspired by the classic Pac-Man experience, built using JavaScript and HTML5 Canvas. Features maze navigation, pellet collection, ghost avoidance, and sound effects[...]
 
 - **Highlights:**
   - Grid-based movement and collision detection
@@ -197,7 +197,7 @@ A browser-based 2D strategy game built with JavaScript and HTML5 Canvas, where p
 
 ### **13. Dishcovery**
 
-A full-stack recipe discovery and management platform that helps users discover recipes based on available ingredients, share culinary creations, and manage personal recipe collections. Built with modern technologies including React, TypeScript, NestJS, and PostgreSQL.
+A full-stack recipe discovery and management platform that helps users discover recipes based on available ingredients, share culinary creations, and manage personal recipe collections. Built wit[...]
 
 - **Highlights:**
   - Ingredient-based recipe discovery
@@ -233,7 +233,7 @@ An internship project combining a React frontend with a Python/Flask backend and
 
 ### **15. EshMagan**
 
-An intelligent wildfire detection and emergency response platform designed to coordinate multiple stakeholders in real-time during fire incidents. The system integrates thermal imaging, AI-powered fire detection, real-time coordination, and multi-channel alerts.
+An intelligent wildfire detection and emergency response platform designed to coordinate multiple stakeholders in real-time during fire incidents. The system integrates thermal imaging, AI-powere[...]
 
 - **Highlights:**
   - Thermal imaging integration with MLX90640 camera
@@ -248,6 +248,23 @@ An intelligent wildfire detection and emergency response platform designed to co
 - **Tech Used:** Node.js, Express.js, Apollo Server (GraphQL), React Native, React, gRPC, NATS, PostgreSQL, PostGIS, Firebase Admin SDK, Electron, Python.
 
 [View Repository](https://github.com/MateoBitar/EshMagan)
+
+---
+
+### **16. AI-Breast-Cancer-Classification**
+
+An AI-powered breast cancer classification project using machine learning, exploratory data analysis, feature selection, model comparison, and PCA-based evaluation. This project demonstrates proficiency in data science and machine learning techniques.
+
+- **Highlights:**
+  - Exploratory Data Analysis (EDA) for dataset understanding
+  - Feature selection and engineering
+  - Multiple machine learning model comparison
+  - PCA-based dimensionality reduction and evaluation
+  - Data visualization and statistical analysis
+
+- **Tech Used:** Python, Jupyter Notebook, Machine Learning, Data Science.
+
+[View Repository](https://github.com/MarcoBitar/Ai-Breast-Cancer-Classification)
 
 ---
 
@@ -297,6 +314,7 @@ An intelligent wildfire detection and emergency response platform designed to co
 - ![Figma](https://img.shields.io/badge/Figma-9146FF?style=flat&logo=figma&logoColor=white)
 - ![RStudio](https://img.shields.io/badge/R%20Studio-F7DF1E?style=flat&logo=rstudio&logoColor=white)
 - ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37726?style=flat&logo=jupyter&logoColor=white)
 
 ### Databases & ORMs:
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -328,6 +346,8 @@ An intelligent wildfire detection and emergency response platform designed to co
 - ![State Management](https://img.shields.io/badge/State%20Management-764ABC.svg?style=flat)
 - ![Authentication & Security](https://img.shields.io/badge/Authentication%20%26%20Security-FF6B6B.svg?style=flat)
 - ![AI Integration](https://img.shields.io/badge/AI%20Integration-4A90E2.svg?style=flat)
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B.svg?style=flat)
+- ![Data Science](https://img.shields.io/badge/Data%20Science-4A90E2.svg?style=flat)
 
 ### Version Control:
 - ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
