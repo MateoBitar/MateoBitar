@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!  
 
-Hi there! I'm Matéo Bitar, a passionate computer science graduate from the University of Balamand. I enjoy designing innovative solutions, and crafting user-friendly experiences. Whether it's fron[...]
+Hi there! I'm Matéo Bitar, a passionate computer science graduate from the University of Balamand. I enjoy designing innovative solutions, and crafting user-friendly experiences. Whether it's frontend development, backend architecture, mobile apps, or desktop applications, I'm always excited to tackle new challenges and deliver high-quality code.
 
 ---
 
@@ -100,7 +100,7 @@ A pure Java and JavaFX desktop application for electronic voting. This project f
 
 ### **7. ZVote-SpringBoot**
 
-The backend Spring Boot implementation for ZVote. This repository provides a RESTful API for voting operations, including poll creation, voting, and results retrieval. Designed for scalability an[...]
+The backend Spring Boot implementation for ZVote. This repository provides a RESTful API for voting operations, including poll creation, voting, and results retrieval. Designed for scalability and high performance with comprehensive vote tracking and analytics capabilities.
 
 - **Highlights:**
   - RESTful API for polls, votes, and results
@@ -116,7 +116,7 @@ The backend Spring Boot implementation for ZVote. This repository provides a RES
 
 ### **8. ZVote-FrontEnd**
 
-A JavaFX-based graphical user interface for ZVote, integrated with the ZVote-SpringBoot backend. This application enables users to interact with polls, cast votes, and view results through a mode[...]
+A JavaFX-based graphical user interface for ZVote, integrated with the ZVote-SpringBoot backend. This application enables users to interact with polls, cast votes, and view results through a modern and responsive desktop interface.
 
 - **Highlights:**
   - User authentication
@@ -163,7 +163,7 @@ A browser-based Angry Birds game built with JavaScript and HTML5 Canvas, featuri
 
 ### **11. Pacman Game**
 
-A browser-based 2D arcade game inspired by the classic Pac-Man experience, built using JavaScript and HTML5 Canvas. Features maze navigation, pellet collection, ghost avoidance, and sound effects[...]
+A browser-based 2D arcade game inspired by the classic Pac-Man experience, built using JavaScript and HTML5 Canvas. Features maze navigation, pellet collection, ghost avoidance, and sound effects for an immersive gaming experience.
 
 - **Highlights:**
   - Grid-based movement and collision detection
@@ -197,7 +197,7 @@ A browser-based 2D strategy game built with JavaScript and HTML5 Canvas, where p
 
 ### **13. Dishcovery**
 
-A full-stack recipe discovery and management platform that helps users discover recipes based on available ingredients, share culinary creations, and manage personal recipe collections. Built wit[...]
+A full-stack recipe discovery and management platform that helps users discover recipes based on available ingredients, share culinary creations, and manage personal recipe collections. Built with modern frontend and backend technologies with GraphQL integration.
 
 - **Highlights:**
   - Ingredient-based recipe discovery
@@ -233,7 +233,7 @@ An internship project combining a React frontend with a Python/Flask backend and
 
 ### **15. EshMagan**
 
-An intelligent wildfire detection and emergency response platform designed to coordinate multiple stakeholders in real-time during fire incidents. The system integrates thermal imaging, AI-powere[...]
+An intelligent wildfire detection and emergency response platform designed to coordinate multiple stakeholders in real-time during fire incidents. The system integrates thermal imaging, AI-powered analytics, and real-time communication protocols to ensure rapid emergency response and community safety.
 
 - **Highlights:**
   - Thermal imaging integration with MLX90640 camera
