@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!  
 
-Hi there! I'm Matéo Bitar, a passionate computer science student at University of Balamand. I enjoy designing innovative solutions, and crafting user-friendly experiences. Whether it's front-end, back-end, or mobile app development, I bring curiosity and dedication to every project.
+Hi there! I'm Matéo Bitar, a passionate computer science student at University of Balamand. I enjoy designing innovative solutions, and crafting user-friendly experiences. Whether it's front-end, back-end, mobile, or game development, I love bringing ideas to life through code!
 
 ---
 
@@ -66,55 +66,71 @@ An interactive website that helps users manage their wardrobe virtually, by crea
 
 ---
 
-### **5. ZVote**
+### **5. Outfitly-API**
 
-A pure Java and JavaFX desktop application for electronic voting. This project features a robust back-end for vote management and a modern JavaFX-based front-end for seamless user interaction. Users can create polls, vote, and view results in real time.
+A comprehensive REST API backend for the Outfitly platform, managing outfits, events, and scheduling for users.
+
+- **Highlights:**
+  - RESTful API with user authentication and management.
+  - Event and week management with outfit scheduling.
+  - Complete CRUD operations for relationships between items, events, outfits, and suggestions.
+  - Image support and outfit suggestion tracking.
+
+- **Tech Used:** Node.js, Express, MySQL, REST API, sharp.
+
+[View Repository](https://github.com/MateoBitar/Outfitly-API)
+
+---
+
+### **6. ZVote**
+
+A pure Java and JavaFX desktop application for electronic voting. This project features a robust back-end for vote management and a modern JavaFX-based front-end for seamless user interaction.
 
 - **Highlights:**
   - Poll creation and management
   - Secure voting
   - Real-time result visualization
   - JavaFX interactive UI
- 
+  
 - **Tech Used:** Java, JavaFX, IntelliJ.
 
 [View Repository](https://github.com/MateoBitar/ZVote)
 
 ---
 
-### **6. ZVote-SpringBoot**
+### **7. ZVote-SpringBoot**
 
-The backend Spring Boot implementation for ZVote. This repository provides a RESTful API for voting operations, including poll creation, voting, and results retrieval. Designed for scalability and integration with various front-end clients.
+The backend Spring Boot implementation for ZVote. This repository provides a RESTful API for voting operations, including poll creation, voting, and results retrieval. Designed for scalability and performance.
 
 - **Highlights:**
   - RESTful API for polls, votes, and results
   - CRUD operations for polls and votes
   - User authentication
   - Persistent storage using JPA/Hibernate
- 
+  
 - **Tech Used:** SpringBoot, JPA Hibernate, IntelliJ.
 
 [View Repository](https://github.com/MateoBitar/ZVote-SpringBoot)
 
 ---
 
-### **7. ZVote-FrontEnd**
+### **8. ZVote-FrontEnd**
 
-A JavaFX-based graphical user interface for ZVote, integrated with the ZVote-SpringBoot backend. This application enables users to interact with polls, cast votes, and view results through a modern desktop UI, communicating with the backend via RESTful API.
+A JavaFX-based graphical user interface for ZVote, integrated with the ZVote-SpringBoot backend. This application enables users to interact with polls, cast votes, and view results through a modern interface.
 
 - **Highlights:**
   - User authentication
   - Poll browsing and voting
   - Real-time results from backend
   - Responsive JavaFX UI
- 
+  
 - **Tech Used:** JavaFX, IntelliJ.
 
 [View Repository](https://github.com/MateoBitar/ZVote-FrontEnd)
 
 ---
 
-### **8. Car Game**
+### **9. Car Game**
 
 An interactive car simulation game project. Developed as a desktop application, this game lets users control a car and navigate various challenges and environments.
 
@@ -122,10 +138,116 @@ An interactive car simulation game project. Developed as a desktop application, 
   - Real-time car control and physics simulation
   - Multiple environments and challenges
   - Score tracking and game progression
- 
+  
 - **Tech Used:** Python, Pygame.
 
-[View Repository](https://github.com/MateoBitar/car-game)
+[View Repository](https://github.com/MateoBitar/Car-Game)
+
+---
+
+### **10. Angry Birds**
+
+A browser-based Angry Birds game built with JavaScript and HTML5 Canvas, featuring slingshot physics, bird powers, level progression, and interactive obstacles.
+
+- **Highlights:**
+  - Slingshot-style aiming and launching with realistic arc physics
+  - Multiple bird types with unique powers
+  - Destructible blocks and destructible interactions
+  - Level progression with increasing difficulty and score objectives
+
+- **Tech Used:** JavaScript, HTML5 Canvas, CSS.
+
+[View Repository](https://github.com/MateoBitar/Angry-Birds)
+
+---
+
+### **11. Pacman Game**
+
+A browser-based 2D arcade game inspired by the classic Pac-Man experience, built using JavaScript and HTML5 Canvas. Features maze navigation, pellet collection, ghost avoidance, and sound effects.
+
+- **Highlights:**
+  - Grid-based movement and collision detection
+  - Real-time rendering using HTML5 Canvas
+  - Game state management and object-oriented JavaScript design
+  - Audio integration for game feedback
+  - Lives system and win/lose states
+
+- **Tech Used:** JavaScript, HTML5 Canvas, HTML5 Audio, CSS.
+
+[View Repository](https://github.com/MateoBitar/Pacman)
+
+---
+
+### **12. Tower Defense**
+
+A browser-based 2D strategy game built with JavaScript and HTML5 Canvas, where players defend a path against waves of enemies by placing different tower types on a grid-based map.
+
+- **Highlights:**
+  - Grid-based map design with tower placement system
+  - Wave spawning with multiple enemy types
+  - Tower targeting and projectile combat
+  - Resource management and economy system
+  - Real-time rendering and interactive UI
+
+- **Tech Used:** JavaScript, HTML5 Canvas, HTML5 Audio, CSS.
+
+[View Repository](https://github.com/MateoBitar/Tower-Defense)
+
+---
+
+### **13. Dishcovery**
+
+A full-stack recipe discovery and management platform that helps users discover recipes based on available ingredients, share culinary creations, and manage personal recipe collections. Built with modern technologies including React, TypeScript, NestJS, and PostgreSQL.
+
+- **Highlights:**
+  - Ingredient-based recipe discovery
+  - User authentication and JWT-based security
+  - Recipe management with image uploads
+  - GraphQL API with Apollo Server
+  - Redux Toolkit for state management
+  - Nutrition information calculation via Spoonacular API
+  - Responsive design for all devices
+
+- **Tech Used:** React, TypeScript, Redux Toolkit, NestJS, GraphQL, PostgreSQL, TypeORM, Axios, Vite.
+
+[View Repository](https://github.com/MateoBitar/Dishcovery)
+
+---
+
+### **14. Neumann-Project**
+
+An internship project combining a React frontend with a Python/Flask backend and MySQL database. Features Webpack and Babel configuration for optimized builds.
+
+- **Highlights:**
+  - Full-stack web application
+  - React frontend with Webpack and Babel
+  - Python Flask backend with MySQL database
+  - Real-time updates and database integration
+  - Code splitting and lazy loading
+
+- **Tech Used:** React, JavaScript, Webpack, Babel, Python, Flask, MySQL, jQuery.
+
+[View Repository](https://github.com/MateoBitar/Neumann-Project)
+
+---
+
+### **15. EshMagan**
+
+An intelligent wildfire detection and emergency response platform designed to coordinate multiple stakeholders in real-time during fire incidents. The system integrates thermal imaging, AI-powered fire detection, real-time coordination, and multi-channel alerts.
+
+- **Highlights:**
+  - Thermal imaging integration with MLX90640 camera
+  - AI-powered fire detection and evacuation planning
+  - Real-time responder tracking via gRPC
+  - Multi-role user system (Resident, First Responder, Municipality, Admin)
+  - Firebase Cloud Messaging for push notifications
+  - PostGIS integration for geolocation and mapping
+  - React Native for cross-platform mobile support
+  - gRPC streaming for location updates
+
+- **Tech Used:** Node.js, Express.js, Apollo Server (GraphQL), React Native, React, gRPC, NATS, PostgreSQL, PostGIS, Firebase Admin SDK, Electron, Python.
+
+[View Repository](https://github.com/MateoBitar/EshMagan)
 
 ---
 
@@ -134,18 +256,22 @@ An interactive car simulation game project. Developed as a desktop application, 
 ### Languages:
 - ![C++](https://img.shields.io/badge/C++-%23f34b7d.svg?style=flat&logo=c%2B%2B&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-- ![JavaFX](https://img.shields.io/badge/JavaFX-007396.svg?style=flat&logo=java&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+- ![Swift](https://img.shields.io/badge/Swift-%23f05138.svg?style=flat&logo=swift&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-- ![Swift](https://img.shields.io/badge/Swift-%23f05138.svg?style=flat&logo=swift&logoColor=white)
 - ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ### Frameworks:
+- ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+- ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 - ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat&logo=express&logoColor=white)
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 - ![UIKit](https://img.shields.io/badge/UIKit-%23FF0000.svg?style=flat&logo=apple&logoColor=white)
 
 ### Tools & Platforms:
@@ -153,14 +279,18 @@ An interactive car simulation game project. Developed as a desktop application, 
 - ![Android Studio](https://img.shields.io/badge/Android%20Studio-ED8B00?style=flat&logo=android-studio&logoColor=white)
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-f34b7d?style=flat&logo=intellij-idea&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+- ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=black)
 - ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 - ![Figma](https://img.shields.io/badge/Figma-9146FF?style=flat&logo=figma&logoColor=white)
 - ![RStudio](https://img.shields.io/badge/R%20Studio-F7DF1E?style=flat&logo=rstudio&logoColor=white)
+- ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 ### Databases:
-- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 - ![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
 
 ### Concepts:
@@ -169,7 +299,15 @@ An interactive car simulation game project. Developed as a desktop application, 
 - ![Web Development](https://img.shields.io/badge/Web%20Development-%23333.svg?style=flat&logo=google-chrome&logoColor=white)
 - ![Mobile Development](https://img.shields.io/badge/Mobile%20Development-%23007AFF.svg?style=flat&logo=apple&logoColor=white)
 - ![Desktop App Development](https://img.shields.io/badge/Desktop%20App%20Development-%23007396.svg?style=flat&logo=java&logoColor=white)
+- ![Game Development](https://img.shields.io/badge/Game%20Development-FF0000.svg?style=flat)
 - ![UI/UX](https://img.shields.io/badge/UI%2FUX-9146FF?style=flat&logo=figma&logoColor=white)
+- ![RESTful API](https://img.shields.io/badge/RESTful%20API-4CAF50.svg?style=flat)
+- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+- ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=grpc&logoColor=white)
+- ![Real-time Communication](https://img.shields.io/badge/Real--time%20Communication-FF6B6B.svg?style=flat)
+- ![State Management](https://img.shields.io/badge/State%20Management-764ABC.svg?style=flat)
+- ![Authentication & Security](https://img.shields.io/badge/Authentication%20%26%20Security-FF6B6B.svg?style=flat)
+- ![AI Integration](https://img.shields.io/badge/AI%20Integration-4A90E2.svg?style=flat)
 
 ### Version Control:
 - ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
